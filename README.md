@@ -10,7 +10,7 @@ P3 - Persona 3 (Vanilla)\
 P3FES - Persona 3 FES\
 P3P - Persona 3 Portable\
 P4 - Persona 4 (Vanilla)\
-P4G - Persona 4 Golden (Note: You will need to own the game on Steam in order to play in VR.)\
+P4G - Persona 4 Golden\
 P5 - Persona 5 (PS3 Only)\
 P5R - Persona 5 Royal (Note: Currently P5R cannot be played in Virtual Reality)\
 Persona Q and Q2 can be played on Valve Index, HTC VIVE, Oculus Rift, Google Cardboard Android, and Windows Mixed Reality.
