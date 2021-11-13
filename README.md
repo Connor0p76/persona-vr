@@ -10,10 +10,10 @@ P3 - Persona 3 (Vanilla)\
 P3FES - Persona 3 FES\
 P3P - Persona 3 Portable\
 P4 - Persona 4 (Vanilla)\
-P4G - Persona 4 Golden (Note: Currently P4G cannot be played in Virtual Reality)\
+P4G - Persona 4 Golden (Note: You will need to own the game on Steam in order to play in VR.)\
 P5 - Persona 5 (PS3 Only)\
 P5R - Persona 5 Royal (Note: Currently P5R cannot be played in Virtual Reality)\
-Persona Q and Q2 can be played on Valve Index, HTC VIVE, Oculus Rift, and Windows Mixed Reality.
+Persona Q and Q2 can be played on Valve Index, HTC VIVE, Oculus Rift, Google Cardboard Android, and Windows Mixed Reality.
 
 Compatible VR Headsets:\
 HTC VIVE (REV:P, P2IS, P2EP, P3, P3FES, P4, P5)\
@@ -26,5 +26,17 @@ Oculus Quest TBA\
 Oculus Go TBA\
 GearVR TBA\
 Homido TBA
+
+
+
+# How to play REV:P, P2IS, P2EP, P3, P3FES, and P4 in Virtual Reality
+
+1. Download and Install EmuVR at https://download.emuvr.net/EmuVR_1.0.9.1.7z
+2. Navigage to C:\EmuVR\Games\
+3. Add 3 folders names PSP, PSX, and PS2.
+4. Put your ROMs in the folders corresponding to the console the games are for
+5. If you have problems, visit this link: https://www.emuvr.net/wiki/Troubleshooting#PlayStation_Games
+6. Run the Game Scanner at C:\EmuVR\Game Scanner\Game Scanner.exe
+7. You're finished with setup! Learn to play at https://www.emuvr.net/wiki/How_To_Play
 
 WORK IN PROGRESS (Currently Unfinished)
