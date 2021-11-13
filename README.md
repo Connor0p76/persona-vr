@@ -27,7 +27,16 @@ Oculus Go TBA\
 GearVR TBA\
 Homido TBA
 
+# How to play Persona 5 in Virtual Reality
 
+1. Download, Install, and Set up RPCS3 at https://rpcs3.net/download (Ignore the no piracy message lmao)
+2. Download Bigscreen at https://www.bigscreenvr.com/desktop and open RPCS3
+3. Enable SBS3D mode
+4. Open RPCS3 in Bigscreen
+5. Load your ROM for Persona 5
+6. You should be good to go
+
+Please let me know if there are any errors in this tutorial as it has not been tested.
 
 # How to play REV:P, P2IS, P2EP, P3, P3FES, and P4 in Virtual Reality
 
