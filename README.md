@@ -13,7 +13,7 @@ P4 - Persona 4 (Vanilla)\
 P4G - Persona 4 Golden (Note: Currently P4G cannot be played in Virtual Reality)\
 P5 - Persona 5 (PS3 Only)\
 P5R - Persona 5 Royal (Note: Currently P5R cannot be played in Virtual Reality)\
-Persona Q and Q2 can be played on Valve Index, HTC VIVE, Oculus Rift, and Windows Mixed Reality.\
+Persona Q and Q2 can be played on Valve Index, HTC VIVE, Oculus Rift, and Windows Mixed Reality.
 
 Compatible VR Headsets:\
 HTC VIVE (REV:P, P2IS, P2EP, P3, P3FES, P4, P5)\
@@ -25,6 +25,6 @@ Valve Index (REV:P, P2IS, P2EP, P3, P3FES, P4, P5)\
 Oculus Quest TBA\
 Oculus Go TBA\
 GearVR TBA\
-Homido TBA\
+Homido TBA
 
 WORK IN PROGRESS (Currently Unfinished)
